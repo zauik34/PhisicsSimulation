@@ -1,0 +1,16 @@
+.vs/
+[Bb]in/
+[Xx]64/
+[Dd]ebug/
+[Rr]elease/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.idb
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
